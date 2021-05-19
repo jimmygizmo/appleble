@@ -1,0 +1,4 @@
+Project starting point comes from the files downloaded from the following Apple Developer tutorial:
+https://developer.apple.com/documentation/corebluetooth/transferring_data_between_bluetooth_low_energy_devices
+
+
